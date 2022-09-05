@@ -1,0 +1,13 @@
+{
+  "terminal.integrated.fontFamily": "Courier New",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.lineHeight": 1.05,
+  "python.formatting.provider": "black",
+  "[python]": {
+    "gitlens.codeLens.symbolScopes": [
+      "!Module"
+    ],
+    "editor.wordBasedSuggestions": false,
+    "editor.formatOnPaste": false
+  }
+}
