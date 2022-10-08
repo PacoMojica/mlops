@@ -1,5 +1,5 @@
 {
-  "terminal.integrated.fontFamily": "Courier New",
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font",
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.lineHeight": 1.05,
   "python.formatting.provider": "black",
