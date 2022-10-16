@@ -13,3 +13,4 @@ pip install tensorflow
 - [Load CSV](https://www.tensorflow.org/tutorials/load_data/csv)
 - [Basic Classification](https://www.tensorflow.org/tutorials/keras/classification)
 - [Text classification using RNN](https://www.tensorflow.org/text/tutorials/text_classification_rnn)
+- [TensorBoard](https://www.tensorflow.org/tensorboard/get_started)
